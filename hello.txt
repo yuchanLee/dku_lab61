@@ -1,3 +1,2 @@
 This is a test file. 
-<hr>
 Change this file and commit to the git repository.
